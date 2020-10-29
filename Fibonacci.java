@@ -20,7 +20,7 @@ public class Fibonacci {
 				break;
 			}
 
-			System.out.print("F(" + index + ") = ");
+			System.out.print("F(" + index + ")=");
 			System.out.print(fibonacci(index) + "\n");
 			index++;
 		}
